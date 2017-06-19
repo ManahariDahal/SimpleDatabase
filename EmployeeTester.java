@@ -1,14 +1,3 @@
-// Name: Manahari Dahal     Date Assigned: 25 January 2017
-
-// Course: CSCI 2003 42733  Date Due: 31 January 2017
-
-// Instructor: Ms. Greer
-//
-// File name: EmployeeTester
-//
-// Program Description: A Employee tester class that checks whether the Employee class runs or not
-
-
 public class EmployeeTester
 {
    public static void main(String[] args)
