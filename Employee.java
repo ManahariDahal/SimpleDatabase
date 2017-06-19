@@ -1,14 +1,3 @@
-// Name: Manahari Dahal     Date Assigned: 25 January 2017
-
-// Course: CSCI 2003 42733  Date Due: 31 January 2017
-
-// Instructor: Ms. Greer
-//
-// File name: Employee
-//
-// Program Description: A class that is used to create and check the objects using setters and getters
-
-
 // declaring public class Employee
 public class Employee      
 {
