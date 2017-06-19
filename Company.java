@@ -1,15 +1,3 @@
-// Name: Manahari Dahal     Date Assigned: 25 January 2017
-
-// Course: CSCI 2003 42733  Date Due: 31 January 2017
-
-// Instructor: Ms. Greer
-//
-// File name: Company
-//
-// Program Description: A company class that inputs employees' name, id and creates a simple database
-
-
-
 // declaring a public class Company
 public class Company                         
 {                        
